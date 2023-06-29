@@ -22,7 +22,7 @@ Sponsors
 ---------
 <a href="https://github.com/scottgal"><img src="https://github.com/scottgal.png" width="80" alt="scottgal" /></a>
 
-<!-- sponsors --><a href="https://github.com/scottgal"><img src="https://github.com/scottgal.png" width="60px" alt="Scott Galloway" /></a><!-- sponsors -->
+<!-- sponsors --><!-- sponsors -->
 
 Contributors
 ---------
