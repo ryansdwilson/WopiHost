@@ -23,7 +23,7 @@ public class WopiSecurityHandler : IWopiSecurityHandler
                 //RandomNumberGenerator rng = RandomNumberGenerator.Create();
                 //byte[] key = new byte[128];
                 //rng.GetBytes(key);
-                var key = Encoding.ASCII.GetBytes("secretKeysecretKeysecretKey123"/* + new Random(DateTime.Now.Millisecond).Next(1,999)*/);
+                var key = Encoding.ASCII.GetBytes("123123123xxsecretKeysecretKeysecretKey123"/* + new Random(DateTime.Now.Millisecond).Next(1,999)*/);
                 _key = new SymmetricSecurityKey(key);
             }
 
